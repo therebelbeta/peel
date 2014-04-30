@@ -6,7 +6,7 @@ An API CMS. Think Wordpress but without the frontend. All content gets pushed to
 
 **Version 0.0.0 (latest)**:
 
-**Note:** **_peel_ is not yet ready for production**. It is still in scaffolding stages, and is more of a brain-child mroe than anything right now.
+**Note:** **_peel_ is not yet ready for production**. It is still in scaffolding stages, and is more of a brain-child than anything right now.
 
 _Peel_ is an API CMS framework (built on NodeJS) that will provide the following features:
 
@@ -14,6 +14,7 @@ _Peel_ is an API CMS framework (built on NodeJS) that will provide the following
 - Different User Roles to separate out API builders from content creators
 - Stores and retrieves content via RESTful JSON API
 - Content returned in Markdown for rich text experiences
+- Analytics on content retrieval (eventually)
 
 ## Documentation
 
