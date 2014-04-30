@@ -4,11 +4,11 @@
   "version": "0.0.0",
   "author": "Trent Oswald <trentoswald@therebelrobot.com>",
   "description": "an API CMS to solve your CMS woes.",
-  "contributors": [ 
+  "contributors": [
     {
       "name": "Trent Oswald",
       "email": "trentoswald@therebelrobot.com"
-    } 
+    }
   ],
   "main": "./peel.js",
   "repository": {
@@ -20,7 +20,14 @@
     "api",
     "cms"
   ],
-  "dependencies" : {
+  "dependencies": {
+    "gulp": "^3.6.2",
+    "async": "^0.8.0",
+    "require-private": "^1.0.2",
+    "passport": "^0.2.0",
+    "mongoose": "^3.8.8",
+    "gulp-stylus": "^1.0.0",
+    "lodash": "^2.4.1"
   },
   "license": "MIT",
   "engines": {
