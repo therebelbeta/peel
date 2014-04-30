@@ -1,0 +1,7 @@
+node_modules/
+bower_modules/
+public_build/
+
+*.bak
+*.zip
+*.tar.gz

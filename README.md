@@ -1,4 +1,4 @@
-# PEEL
+![Peel](/peellogo-75.png?raw=true "Peel")
 
 An API CMS. Think Wordpress but without the frontend. All content gets pushed to a RESTful JSON API. Built with NodeJS and AngularJS.
 
