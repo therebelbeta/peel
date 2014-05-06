@@ -2,6 +2,7 @@ node_modules/
 bower_modules/
 public_build/
 
+templates.js
 *.bak
 *.zip
 *.tar.gz
