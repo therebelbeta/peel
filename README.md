@@ -26,6 +26,7 @@ No documentation exists as of yet. I will probably be fleshing it out with Gitbo
 [MIT](/LICENSE.peel)
 ### SB Admin 2 (Front-end)
 [APACHE 2](/LICENSE.sbadmin2)
+**Note: As per Apache 2 license, appropriate modification notices have been added to the modified files of SB Admin 2. These should remain intact.**
 
 ## Credit
 
