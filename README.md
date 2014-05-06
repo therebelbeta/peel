@@ -22,8 +22,13 @@ No documentation exists as of yet. I will probably be fleshing it out with Gitbo
 
 ## License
 
-[MIT](https://github.com/JonAbrams/synth/blob/master/LICENSE)
+### Peel
+[MIT](/LICENSE.peel)
+### SB Admin 2 (Front-end)
+[APACHE 2](/LICENSE.sbadmin2)
 
 ## Credit
 
 - This project was created by Trent Oswald ([Twitter](https://twitter.com/therebelrobot) | [GitHub](https://github.com/therebelrobot)).
+
+- Front-end based off of [Start Bootstrap - SB Admin 2.0](http://startbootstrap.com/sb-admin-v2)
