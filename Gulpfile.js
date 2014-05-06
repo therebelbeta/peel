@@ -21,7 +21,12 @@ var paths = {
       'bower_modules/angular-route/angular-route.min.js',
       'bower_modules/angular-resource/angular-resource.min.js',
       'bower_modules/bootstrap/dist/js/bootstrap.min.js',
-      'public_modules/js/lib/**/*.js'
+      'public_modules/js/lib/jquery.metisMenu.js',
+      'public_modules/js/lib/raphael-2.1.0.min.js',
+      'public_modules/js/lib/morris.js',
+      'public_modules/js/lib/sb-admin.js',
+      'public_modules/js/lib/dashboard-demo.js'//,
+      // 'public_modules/js/lib/**/*.js'
     ]
   },
   styles: {
