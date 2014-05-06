@@ -15,17 +15,22 @@ var paths = {
       '!public_modules/js/lib/**'
     ],
     lib:[
+      'bower_modules/lodash/dist/lodash.min.js',
       'bower_modules/jquery/dist/jquery.min.js',
       'bower_modules/angular/angular.min.js',
       'bower_modules/angular-route/angular-route.min.js',
       'bower_modules/angular-resource/angular-resource.min.js',
+      'bower_modules/bootstrap/dist/js/bootstrap.min.js',
       'public_modules/js/lib/**/*.js'
     ]
   },
   styles: {
     ourswatch:['public_modules/stylus/**/*.stylus'],
     ours:['public_modules/stylus/main.stylus'],
-    lib:['public_modules/stylus/lib/**/*.css']
+    lib:[
+        'bower_modules/bootstrap/dist/css/bootstrap.css',
+        'public_modules/stylus/lib/**/*.css'
+    ]
   },
   images: 'public_modules/img/**',
   html:{
