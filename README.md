@@ -1,6 +1,6 @@
 ![Peel](/peellogo-75.png?raw=true "Peel")
 
-An API CMS. Think Wordpress but without the frontend. All content gets pushed to a RESTful JSON API. Built with Go and AngularJS.
+An API CMS. Think Wordpress but without the frontend. All content gets pushed to a RESTful JSON API. Built with NodeJS and AngularJS.
 
 ## Current status
 
@@ -8,7 +8,7 @@ An API CMS. Think Wordpress but without the frontend. All content gets pushed to
 
 **Note:** **_peel_ is not yet ready for production**. It is still in scaffolding stages, and is more of a brain-child than anything right now.
 
-_Peel_ is an API CMS framework (built in Go) that will provide the following features:
+_Peel_ is an API CMS framework (built in NodeJS) that will provide the following features:
 
 - Creation of API endpoints directly within CMS
 - Different User Roles to separate out API builders from content creators
